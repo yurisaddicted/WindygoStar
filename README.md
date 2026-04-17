@@ -1,6 +1,7 @@
                          "ʏᴏᴜ ꜱᴀɪᴅ ʏᴏᴜ ʟɪᴋᴇᴅ ᴄʜᴏᴄᴏʟᴀᴛᴇ ᴄʜɪᴘ ᴄᴏᴏᴋɪᴇꜱ.."
-""                                    
-""
+ㅤ
+                                 
+ㅤ
   <img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/50e6f8c7-f4a0-41ae-b7c8-05aeb3a7113e" />
 &emsp;
 <img width="900" height="100" alt="image" src="https://github.com/user-attachments/assets/26ff4da6-a72e-4ae3-9fa1-605d809a91eb" />
