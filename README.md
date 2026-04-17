@@ -3,7 +3,9 @@
 
   <img width="500" height="405" alt="image" src="https://github.com/user-attachments/assets/50e6f8c7-f4a0-41ae-b7c8-05aeb3a7113e" />
 
-<img src="https://github.com" width="100" align="left"> "You, you'd fall in love With anyone...."
+<img src="https://github.com" width="100" align="left">
+
+"You, you'd fall in love With anyone...."
 
 
 
